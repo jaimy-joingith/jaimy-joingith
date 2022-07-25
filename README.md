@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaimy @jaimy-joingith.
+- 👋 Hi, I’m Jaimy.
 - 👀 I’m interested in full-stack Development.
 - 🌱 I’m currently learning Python (and other full-stack
  skills).
